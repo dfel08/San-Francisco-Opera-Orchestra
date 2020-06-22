@@ -1,6 +1,6 @@
 # San-Francisco-Opera-Orchestra
 
-First freelance project after graduating from Trilogy Education Services Web Development Bootcamp. This is a website built for San Francisco Opera Orchestra. The client came to me asking for a new site from scratch. After deliberation, the website was abandoned, and the site was built using Wix.
+First freelance project after graduating from Trilogy Education Services Web Development Bootcamp. This is a website built for San Francisco Opera Orchestra. The client came to me asking for a new site from scratch. After deliberation, the website was abandoned.
 
 ## Getting Started
 
